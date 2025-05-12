@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "145340194650",
+    "firebase_url": "https://esp32-demo-97f70-default-rtdb.firebaseio.com",
+    "project_id": "esp32-demo-97f70",
+    "storage_bucket": "esp32-demo-97f70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145340194650:android:8b871eaa4ba045755a1d63",
+        "android_client_info": {
+          "package_name": "com.example.appesp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEGdM7Hwbb5TJ8he5Xff3XwLqOxFfnac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
